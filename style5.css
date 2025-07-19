@@ -1,0 +1,45 @@
+.q{
+    height: 100px;
+    width: 100px;
+    border: 2px solid black;
+}
+
+*{
+    margin: 0;
+    padding: 0;
+    color: white;
+}
+
+#navbar{
+    background-color: black;
+    height: 60px;
+}
+
+#logo{
+    font-size: 25px;
+    color: #f08804;
+}
+
+button{
+    background-color: #f08804;
+}
+
+a{
+    margin-right: 200px;
+}
+
+#box1{
+    background-color: rgba(255, 0, 0, 0.5)
+}
+
+#box2{
+    background-color: rgba(0, 255, 0, 0.5)
+}
+
+#box3{
+    background-color: rgba(0, 0, 255, 0.5)
+}
+
+.contentArea{
+    height: 300px;
+}
